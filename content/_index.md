@@ -8,13 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        DeepNano
+        Deep Nano
       image:
-        filename: welcome.jpg
+        filename: Picture 1.gif 
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Deep Nano Group** research activities are focused on modelling and simulation of nanoscale devices and interconnects for advanced CMOS and novel emerging devices. The main aim of the group is to combine various numerical, analytical and machine learning methods in flexible, accurate and predictable simulation framework. 
+        
   
   - block: collection
     content:
