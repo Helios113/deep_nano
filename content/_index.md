@@ -10,7 +10,7 @@ sections:
       title: |
         Deep Nano
       image:
-        filename: Picture 1.gif 
+        filename: Picture 2.jpeg
       text: |
         <br>
         
