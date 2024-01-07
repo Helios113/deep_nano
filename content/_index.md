@@ -14,7 +14,9 @@ sections:
       text: |
         <br>
         
-        The **Deep Nano Group** research activities are focused on modelling and simulation of nanoscale devices and interconnects for advanced CMOS and novel emerging devices. The main aim of the group is to combine various numerical, analytical and machine learning methods in flexible, accurate and predictable simulation framework. 
+        The **Deep Nano Group** research activities are focused on modelling and simulation of nanoscale devices and interconnects for advanced CMOS and novel emerging devices. 
+        
+        The main aim of the group is to combine various numerical, analytical and machine learning methods in flexible, accurate and predictable simulation framework. 
         
   
   - block: collection
