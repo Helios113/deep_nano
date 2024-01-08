@@ -4,7 +4,7 @@ title: Preslav Aleksandrov
 
 # Full name (for SEO)
 first_name: Preslav  
-last_name: Alexandrov
+last_name: Alekandrov
 
 # Username (this should match the folder name)
 authors:
