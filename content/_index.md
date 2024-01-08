@@ -8,37 +8,42 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 Welcome to Deep Nano Group
+        content: The **Deep Nano Group** research activities are focused on modelling and simulation of nanoscale devices for advanced opto-electronic and quantum applications. 
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: Group Lunch Daniel.png
             filters:
-              brightness: 0.7
+              brightness: 0.5
           position: right
           color: '#666'
         link:
           icon: newspaper
           icon_pack: fas
-          text: News
-          url: ../contact/
-      - title: Lunch & Learn ☕️
+          text: Research
+          url: ../research_content/
+      - title: Projects & Learn 
         content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
+        align: center
         background:
           image:
-            filename: contact.jpg
+            filename: All crop room picture.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
+        link:
+            icon: newspaper
+            icon_pack: fas
+            text: Projects
+            url: ../project_content/
       - title: World-Class Semiconductor Lab
         content: 'Just opened last month!'
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: Mofem nanowire.png
             filters:
               brightness: 0.5
           position: center
@@ -56,18 +61,18 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
-  - block: hero
-    content:
-      title: |
-        DeepNano
-      image:
-        filename: Picture 2.jpeg
-      text: |
-        <br>
+  #- block: hero
+  #  content:
+  #    title: |
+  #      DeepNano
+  #    image:
+  #      filename: Picture 2.jpeg
+  #    text: |
+  #      <br>
         
-        The **DeepNano Group** research activities are focused on modelling and simulation of nanoscale devices and interconnects for advanced CMOS and novel emerging devices. 
+  #      The **DeepNano Group** research activities are focused on modelling and simulation of nanoscale devices and interconnects for advanced CMOS and novel emerging devices. 
         
-        The main aim of the group is to combine various numerical, analytical and machine learning methods in flexible, accurate and predictable simulation framework. 
+  #      The main aim of the group is to combine various numerical, analytical and machine learning methods in flexible, accurate and predictable simulation framework. 
 ---
 
 <!-- ---
