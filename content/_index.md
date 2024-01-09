@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to Deep Nano Group
-        content: The **Deep Nano Group** research activities are focused on modelling and simulation of nanoscale devices for advanced opto-electronic and quantum applications. 
+      - title: 👋 Welcome to DeepNano Group
+        content: The **DeepNano Group** research activities are focused on modelling and simulation of nanoscale devices for advanced opto-electronic and quantum applications. 
         align: center
         background:
           image:
@@ -24,7 +24,7 @@ sections:
           text: Research
           url: ../research_content/
       - title: Projects & Learn 
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        content: 'Check out our projects and explore our exciting work!'
         align: center
         background:
           image:
@@ -39,7 +39,7 @@ sections:
             text: Projects
             url: ../project_content/
       - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+        content: 'Get in touch to work with us!'
         align: right
         background:
           image:
