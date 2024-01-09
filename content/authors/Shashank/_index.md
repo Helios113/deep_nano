@@ -18,7 +18,7 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Glasgow and IBM Zurich 
+  - name: University of Glasgow
     url: 'https://www.intuitive-itn.eu/in-silico-model-of-skin/'
 
 # Short bio (displayed in user profile at end of posts)
@@ -35,11 +35,11 @@ education:
 #    - course: PhD in Artificial Intelligence
 #      institution: Stanford University
 #      year: 2012
-    - course: MS in Materials Science
-      institution: Università degli Studi di Padova (Italy)
+    - course: M. Tech. in Metallurgical Engineering
+      institution: IIT-BHU, Varanasi
       year: 2019
-    - course: BSc in Materials Science
-      institution: Università degli Studi di Padova (Italy)
+    - course: B.Tech. in Metallurgical Engineering
+      institution: IIT-BHU, Varanasi
       year: 2017
 
 # Social/Academic Networking
