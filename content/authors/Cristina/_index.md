@@ -26,7 +26,7 @@ bio: Cristina is an PhD student in an H2020 MSCA EU project called DESING-EID. H
 
 interests:
   - Material growth
-  - Device modelling & simulations
+  - Device & simulations
   - Device fabrications & measurements
 
 education:
