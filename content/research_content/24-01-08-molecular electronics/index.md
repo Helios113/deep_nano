@@ -4,7 +4,7 @@ date: 2024-01-01
 authors: ["Vihar Georgiev"]
 ---
 
-Our aim is to establish a link between the chemistry, device fabrication anddevice design and modelling
+Our aim is to establish a link between the chemistry, device fabrication and device design and modelling
 
 <!--more-->
 
