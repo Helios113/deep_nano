@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: 👋 Welcome to DeepNano Group
-        content:The **DeepNano Group** research activities are focused on the modelling and simulation of nanoscale devices for advanced optoelectronics, biosensors and quantum applications.
+        content: The **DeepNano Group** research activities are focused on the modelling and simulation of nanoscale devices for advanced optoelectronics, biosensors and quantum applications.
         align: center
         background:
           image:
