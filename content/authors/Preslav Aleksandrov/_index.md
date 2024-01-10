@@ -11,18 +11,20 @@ authors:
   - Preslav Aleksandrov
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Research Associate 
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Glasgow & University of Cambridge
-    url: 'https://preslav.xyz/'
+  - name: University of Cambridge
+    url: 'https://www.preslav.xyz'
+  - name: University of Glasgow 
+    url: 'https://www.gla.ac.uk/schools/engineering/staff/preslavaleksandrov/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include modelling and simulations of transistors, memories, biosensors. 
+bio: My research interests are. 
 
 interests:
   - Artificial Intelligence
@@ -31,15 +33,15 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science
+      institution: University of Cambridge
+      year: 2028
+    - course: MEng in Software Development
+      institution: University of Glasgow
+      year: 2022
+    - course: MEng in Civil Engineering
+      institution: University of Glasgow
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,16 +50,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:pa511@cam.ac.uk'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=d3mnwTkAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Helios113
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

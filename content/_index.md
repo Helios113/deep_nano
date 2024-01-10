@@ -22,7 +22,7 @@ sections:
           icon: newspaper
           icon_pack: fas
           text: Research
-          url: ../research_content/
+          url: ../research/
       - title: Projects & Learn 
         content: 'Check out our projects and explore our exciting work!'
         align: center
@@ -37,7 +37,7 @@ sections:
             icon: newspaper
             icon_pack: fas
             text: Projects
-            url: ../project_content/
+            url: ../project/
       - title: World-Class Semiconductor Lab
         content: 'Get in touch to work with us!'
         align: right
