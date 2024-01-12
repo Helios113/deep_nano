@@ -9,7 +9,7 @@ sections:
     id: reserach
     content:
       title: "Funded Research Projects"
-      subtitle: 'Current'
+      subtitle: ''
       text: ""
       # Choose how many pages you would like to display (0 = all pages)
       count: 0
