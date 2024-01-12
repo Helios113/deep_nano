@@ -2,8 +2,6 @@
 title: Empowering Practical Interfacing of Quantum Computing (EPIQC)
 date: 2024-01-10
 authors: ["Vihar Georgiev"]
-
-
 ---
 
 
