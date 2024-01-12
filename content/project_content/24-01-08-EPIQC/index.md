@@ -7,13 +7,9 @@ authors: ["Vihar Georgiev"]
 ---
 
 
-Partners: University of Glasgow (D.J. Paul, M. Sorel, K. Gallacher and V. Georgiev), University of Birmingham (K. Bongs, M. Holynski and A. Demetriadou), 
-Loughborough University (A. Pasquazi and M. Peccianti) and 
-University of Strathclyde (E. Riis and P. Griffin)
+Partners: University of Glasgow (M. Weides, H. Heidari, M. Sorel, C. Li ,A. Casaburi, Hadfield, D.Moran, G.Georgiou, K. Delfanazari, R. Macedo, M. Imran, V. Georgiev, A. Asenov)
 
 EPSRC £2.5M April 2022 to March 2026
-
-M. Weides, H. Heidari, M. Sorel, C. Li ,A. Casaburi, Hadfield, D.Moran, G.Georgiou, K. Delfanazari, R. Macedo, M. Imran, V. Georgiev, A. Asenov
 
 
 <!--more-->
