@@ -1,5 +1,5 @@
 ---
-title: Chip-scale Atomic Systems for a Quantum Navigator
+title: Empowering Practical Interfacing of Quantum Computing (EPIQC)
 date: 2024-01-10
 authors: ["Vihar Georgiev"]
 
@@ -11,22 +11,18 @@ Partners: University of Glasgow (D.J. Paul, M. Sorel, K. Gallacher and V. Georgi
 Loughborough University (A. Pasquazi and M. Peccianti) and 
 University of Strathclyde (E. Riis and P. Griffin)
 
-EPSRC £10.5M November 2023 to November 2028
+EPSRC £2.5M April 2022 to March 2026
+
+M. Weides, H. Heidari, M. Sorel, C. Li ,A. Casaburi, Hadfield, D.Moran, G.Georgiou, K. Delfanazari, R. Macedo, M. Imran, V. Georgiev, A. Asenov
 
 
 <!--more-->
 
-Our vision is to pioneer a mobile phone sized quantum navigator by combining chip-scale quantum clocks, accelerometers and rotation sensors (gyroscopes) that can be manufactured on silicon chips to be used for position, navigation and timing without reliance on signals from satellites. Our aim is to improve satellite-free navigator accuracy compared to present marine grade commercial systems by at least x10 with over a x100 reduction in size, weight, power and cost enabled through the development of new science approaches. An analogy is Harrison's pocket watch, H4, that won the Longitude Prize in 1773 as the small size reduced the uncertainties from temperature and acceleration drifts on navy ships.
+Quantum computers are superior to conventional computers for their high computing power, and this is true only if they have many qubits e.g., 100s or more. The current leading commercial players in the field have successfully demonstrated processors with more than 50 cryogenic qubits using the classical control interferences which suffer from bulky cables and electronics. Novel solutions are desperately and urgently required for qubit upscaling. Avenues for improvement include dramatically increasing the number, density and modularity of independent control channels, signal bandwidth, the time and amplitude resolution of generated waveforms, and the physical footprint of circuits and interconnects for noisy intermediate-scale quantum computing (NISQC), universal fault-tolerant quantum computing (UFTQC) and efficient multiplexing of single-photon detectors. This project will be a step towards improving the performance of and potentially revolutionising QC control hardware and future integration based on modern information and communication hardware. This will be achieved by synergising QC with ICT's state-of-the-art developments in optical, wireless and cyro-CMOS electronics. The researchers from both QC and ICT sectors will collaboratively identify, explore, develop, and benchmark the technologies at both device and system levels. Through nationwide networking chaired by NQCC with support from the University of Glasgow (UoG), National Quantum Computing Centre (NQCC), National Physical Laboratory (NPL), University College London (UCL), University of Strathclyde (UoS), and Science and Technology Facilities Council (STFC) and more than 20 industrial and academic partners, we will eventually deliver the ambitious objectives for the next generation of quantum computers with more than 100 qubits.
 
-Society navigates using satnavs in vehicles and mobile phones but the nano-Watt signals are easy to jam, spoof and do not work inside buildings, under the ocean or underground. Spoofing and jamming are also used by pirates to steal ships, people traffickers and organised crime to hid illegal behaviour, and in military conflict zones to limit situational awareness of opponents.
-
-Resilient navigation without satellites uses dead reckoning where the current position from a previously determined reference is calculated using time, velocity, acceleration and rotation measurements. The UK Government recommends all position, navigation and timing for national security and critical national infrastructure can operate for greater than 3 days without updated references from satellites. The UK Government Blackett Review on Global Navigation Satellite Signals (GNSS) Dependencies and Vulnerabilities states that 5 days loss of satellite navigation has a potential loss of £5.2Bn to the UK economy.
-
-MOD, US DARPA, the European Defence Fund and the Connected Places Catapult indicates that national security and autonomous vehicle markets require far smaller, more accurate, robust and cheaper position, navigation and timing solutions such as the quantum chip-scale systems we proposed to develop. Connected and autonomous vehicles are predicted to create a £100 Bn global market for resilient position, navigation and timing systems with £2.7Bn GVA to the UK economy (>23,400 direct and 14,600 indirect UK jobs) by 2035. This research is key underpinning work to enable that market by developing UK supply chains with industry for practical position, navigation and timing systems.
-
-Quantum rotation sensors / gyroscopes have experimentally demonstrated drift stability performance 65 times better than optical gyroscopes with theoretical performance calculated to be 20,000 times better. Quantum accelerometers have experimentally demonstrated drift stability 4 orders of magnitude superior to classical accelerometers with hybrid systems also showing improvements of x80. At present these demonstrated quantum sensors are difficult to scale below 50 kg and something about the size of a washing machine. This project aims to take photonic integrated circuit and MEMS technologies to develop chip-scale atomic clocks, quantum rotation sensors / gyroscopes and quantum accelerometers to build much smaller and more practical quantum navigators that will have many applications and benefits to UK and global society.
+The first 12 months of EPIQC will be dedicated to co-creation activities aimed at validating and further refining the focus of our work. The NQCC will devote a project manager to coordinate and support the co-creation activities, helping to reach the broader community and ensuring activities are delivered professionally. In the first instance, a series of one-to-one conversations will be held with end-users to validate needs and understand the market pull. This will inform further one-to-one discussions with key industry players and the identification of supply chains and pre-competitive areas of research. This groundwork will be essential to the successful set-up and definition of a series of focus groups on each of the pillars, exploring state-of-the-art, future trends and markets and defining top-level roadmaps for pre-competitive challenges. These challenges will be further explored through sandpits defining the details of research strands under each pillar. In years 2-4 EPIQC focusses on investigations of cross-disciplinary interfacing and integration of alternative control and readout architectures through three complementary pillars, and the verification of ICT-QC hardware for user needs.
 
 Link to the EPSRC website:
-https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/X012689/1
+https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W032627/1
 
 
