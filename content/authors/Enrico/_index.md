@@ -70,7 +70,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - PhD Students
   
 ---
 Enrico is an PhD student in an H2020 MSCA EU project called DESING-EID. His work is mainly focus on aspects related to III-V materials epitaxial growth on silicon, TEM analysis and development of a machine learning algorithm for defect classification. He also foresee the development of simulation framework to model the electronic and optical properties of individual defects.

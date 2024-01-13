@@ -13,7 +13,7 @@ sections:
       user_groups:
           - Group Leader
           - Researchers
-          - Grad Students
+          - PhD Students
           - Administration
           - Visitors
           - Alumni

@@ -70,7 +70,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - PhD Students
   
 ---
 Cristina is an PhD student in an H2020 MSCA EU project called DESING-EID. Her work explores the role of defects in the context of opto-electronic device performance. In her work she combines simulations & modelling with device fabrications and measurements.

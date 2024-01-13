@@ -70,7 +70,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - PhD Students
   
 ---
 Christian is an PhD student in an H2020 MSCA EU project called DESING-EID. His is developing theoretical models which can describe the complexity of the material growth process and defect formation in III-V materials. Those models are implemented in state-of-the-art QuantumATK commercial simulation framework.

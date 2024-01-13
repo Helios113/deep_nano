@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Nikolas Xeni
+title: Paul Lapham
 
 # Full name (for SEO)
-first_name: Nikolas 
-last_name: Xeni
+first_name: Paul
+last_name: Lapham
 
 # Username (this should match the folder name)
 authors:
-  - Nikolas
+  - Paul
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,28 +18,28 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Glasgow 
+  - name: University of Glasgow
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Nikolas is a PhD student and his work is developing numerical models for simulations and modeling of nanoelectronics and semiconductor devices.
+Bio: Atomistic simulations of nanoscale molecular and metal oxide junctions
 
 interests:
-  - Device modeling 
-  - TCAD simulations
-  - Numerical simulations
+  - Atomistic simulations
+  - Molecular electronics
+  - Metal oxide junctions
 
 education:
   courses:
-#    - course: PhD in Artificial Intelligence
-#      institution: Stanford University
-#      year: 2012
-#    - course: MSc Physics & Nanotechnology
-#      institution: Technical University of Denmark (DTU)
-#      year: 2019
-    - course: BSc Computer and Electronic Systems Engineering
-      institution: Glasgow Caledonian University
-      year: 2017
+    - course: PhD Computational Electrical and Electronic Engineering
+      institution: University of Glasgow
+      year: 2023
+    - course: MSc in Chemistry 
+      institution: University of Glasgow
+      year: 2019
+    - course: BSc in Chemistry 
+      institution: University of Glasgow
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,16 +48,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: ''
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link:
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://theses.gla.ac.uk/83647/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,7 +70,10 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - Alumni
   
 ---
-Nikolas is a PhD student and his work is developing numerical models for simulations and modeling of nanoelectronics and semiconductor devices.
+
+Dr Paul Lapham currently is an Data Analyst at Reboot. Before joining Reboot, I completed a PhD in Computational Electrical and Electronic Engineering at the University of Glasgow. That has equipped me with the problem-solving skills for pursuing my career in Data.
+
+Outside of work, I am a keen football and basketball fan and really enjoy cooking.
