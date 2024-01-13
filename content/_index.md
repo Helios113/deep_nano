@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: Group Lunch Daniel.png
+            filename: ai-generated-8005083_1280.png
             filters:
               brightness: 0.5
           position: right
@@ -28,7 +28,7 @@ sections:
         align: center
         background:
           image:
-            filename: All crop room picture.jpg
+            filename: ai-generated-7938199_1280.jpg
             filters:
               brightness: 0.7
           position: center
@@ -43,7 +43,7 @@ sections:
         align: right
         background:
           image:
-            filename: Mofem nanowire.png
+            filename: board-158973_1280.png
             filters:
               brightness: 0.5
           position: center
