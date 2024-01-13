@@ -37,7 +37,7 @@ education:
       institution: University of Mumbai
       year: 2014
     - course: B.Eng. in Elctical Engineering 
-      institution: University of Glasgow
+      institution: University of Mumbai
       year: 2012
 
 # Social/Academic Networking
