@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Information about DeepNano group
 
 # Listing view
 view: compact
