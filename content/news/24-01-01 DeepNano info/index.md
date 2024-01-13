@@ -1,6 +1,6 @@
 ---
 title: Wellcome to DeepNano Group at University of Glasgow
-date: 2020-12-02
+date: 2024-01-01
 authors: ["Vihar Georgiev"]
 image:
   focal_point: 'top'
