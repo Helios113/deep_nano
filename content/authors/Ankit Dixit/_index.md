@@ -22,24 +22,27 @@ organizations:
     url: 'https://www.gla.ac.uk/schools/engineering/staff/ankitdixit/#'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include TCAD device simulation and modelling, biosensor application, GAA FET, FinFET, III-V devices.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - TCAD Simulation
+  - Device Modelling 
+  - FinFET and GAA FET
+  - Biosensor Application 
+  - III-V Devices 
+
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Electronics Engineering
+      institution: PDPM-IIITDM, Jabalpur, India
+      year: 2022
+    - course: Master of Technology in Electronics Engineering
+      institution: PDPM-IIITDM, Jabalpur, India
+      year: 2014
+    - course: Bachelor of Engineering in Artificial Intelligence
+      institution: SGSITS, Indore, India
+      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,16 +51,14 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'ankit.dixit@glasgow.ac.uk'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?hl=hi&user=5MuWGEAAAAAJ 
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,7 +74,7 @@ user_groups:
   - Researchers
   
 ---
+I am working as Research Associate with Deep Nano group, University of Glasgow, Scotland headed by Prof. Vihar P Georgiev. Here, I am responsible to conduct nano electronics device simulation such as GAA FET, FinFET etc for the project titled, “Probing the States of Single Molecules for Sensing and Multi-value Memory Applications”. I am also a  member of various technical society such as IEEE, ISTE, IETE etc.  I completed my Ph.D. in the discipline of Electronics and Communication Engineering, at the Indian Institute of Information Technology, Design, and Manufacturing,  Jabalpur, India and carried out my research under the supervision of Dr. Dip Prakash Samajdar in the investigation of III-V material such as InGaAs, GaAsSb, InGaSb for the application of low power devices and biosensor applications.
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I have published numerous articles in prestigious national and international publications and conferences such as IEEE, Elsevier, Springer, and others. I was the recipient of a research scholarship from the Indian Ministry of Human and Resource Development (MHRD). Earlier, I held the position of section vice-chair for the IEEE nanotechnology council (NTC) chapter and served as the secretary for the IEEE student branch of PDPM IIITDM, Jabalpur, India.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
