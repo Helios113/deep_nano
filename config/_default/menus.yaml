@@ -22,9 +22,12 @@ main:
   - name: Projects
     url: projects
     weight: 50
-  - name: Contact
-    url: contact
-    weight: 70
   - name: News
     url: news
     weight: 60
+  - name: 
+    url: "https://google.com"
+    weight: 70
+  - name: Contact
+    url: contact
+    weight: 80
