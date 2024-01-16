@@ -37,7 +37,7 @@ sections:
             icon: newspaper
             icon_pack: fas
             text: Projects
-            url: ../project/
+            url: ../projects/
       - title: World-Class Semiconductor Lab
         content: 'Get in touch to work with us!'
         align: right
