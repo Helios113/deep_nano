@@ -6,7 +6,7 @@ authors: ["Vihar Georgiev"]
 
 Partners: University of Glasgow (V. Georgiev)
 
- Oxford Quantum Hub: £168K January 2022 to May 2023
+ Oxford Quantum Hub £168K January 2022 to May 2023
 
 
 <!--more-->

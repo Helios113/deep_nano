@@ -1,6 +1,6 @@
 ---
 title: Quantum Electronics Device Modelling (QUANTDEVMOD)
-date: 2024-01-10
+date: 2017-01-10
 authors: ["Vihar Georgiev"]
 ---
 

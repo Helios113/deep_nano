@@ -1,6 +1,6 @@
 ---
 title: Quantum Simulator for Entangled Nano-Electronics (QSEE)
-date: 2024-01-10
+date: 2021-01-10
 authors: ["Vihar Georgiev"]
 ---
 
