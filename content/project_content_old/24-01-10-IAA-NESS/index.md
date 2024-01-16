@@ -1,7 +1,7 @@
 ---
 title: Semiconductor Device Variability Driven Encryption Technology for IoT applications
 date: 2019-03-08
-#authors: ["Vihar Georgiev"]
+authors: ["Vihar Georgiev"]
 ---
 
 

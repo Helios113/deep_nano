@@ -1,7 +1,7 @@
 ---
 title: Variability-aware RRAM PDK for design based research on FPGA/neuro computing
 date: 2018-01-08
-#authors: ["Vihar Georgiev"]
+authors: ["Vihar Georgiev"]
 ---
 
 

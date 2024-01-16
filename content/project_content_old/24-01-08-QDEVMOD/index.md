@@ -1,7 +1,7 @@
 ---
 title: Quantum Electronics Device Modelling (QUANTDEVMOD)
 date: 2017-01-10
-#authors: ["Vihar Georgiev"]
+authors: ["Vihar Georgiev"]
 ---
 
 Partners: University of Glasgow (V. Georgiev)
