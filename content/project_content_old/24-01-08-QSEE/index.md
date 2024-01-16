@@ -1,7 +1,7 @@
 ---
 title: Quantum Simulator for Entangled Nano-Electronics (QSEE)
 date: 2021-01-10
-authors: ["Vihar Georgiev"]
+#authors: ["Vihar Georgiev"]
 ---
 
 Partners: University of Glasgow (V. Georgiev)

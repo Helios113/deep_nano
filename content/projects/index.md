@@ -62,5 +62,5 @@ sections:
 
     design:
       # Choose a listing view
-      view: compact
+      view: citation #compact
 ---

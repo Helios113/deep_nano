@@ -1,7 +1,7 @@
 ---
 title: Quantum mechanical simulation of aluminium oxide tunnel junctions as superconducting qubits
-date: 2024-01-10
-authors: ["Vihar Georgiev"]
+date: 2023-01-10
+#ßauthors: ["Vihar Georgiev"]
 ---
 
 Partners: University of Glasgow (V. Georgiev)
