@@ -7,7 +7,7 @@ authors: ["Vihar Georgiev"]
 
 Partners: University of Glasgow (V. Georgiev), Luxemburg Institute of Science and Technology (Luxemburg), University of Twente (Netherlands), Universidad Pompeu Fabra (Spain), Kobenhavns University (Denmark), Elvesys (Frannce)
 
- £3M January 2020 to December 2023
+ H2020 EU FetOPEN: £3M January 2020 to December 2023
 
 
 <!--more-->

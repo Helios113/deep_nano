@@ -7,7 +7,7 @@ authors: ["Vihar Georgiev"]
 
 Partners: University of Glasgow (V. Georgiev), IBM Research Zurich (Switzerland) and Synopsus Quantum ATK (Denmark)
 
- £1M January 2020 to December 2024
+ H2020 MSCA £1M January 2020 to December 2024
 
 
 <!--more-->
