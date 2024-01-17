@@ -26,7 +26,7 @@ main:
     url: news
     weight: 60
   - name: Repository 
-    url: "https://google.com"
+    url: "https://github.com/DeepNano-Glasgow"
     weight: 70
   - name: Contact
     url: contact

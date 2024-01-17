@@ -39,7 +39,7 @@ sections:
             icon_pack: fas
             text: Projects
             url: ../projects/
-      - title: World-Class Simulation and Modelling Lab
+      - title: World-Class Material Simulation and Device Modelling Lab
         content: 'Get in touch to work with us!'
         align: right
         background:
