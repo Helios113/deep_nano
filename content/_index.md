@@ -31,6 +31,7 @@ sections:
             filename: CPD_struct_crop.png
             filters:
               brightness: 0.7
+            fit: contain
           position: center
           color: '#555'
         link:
