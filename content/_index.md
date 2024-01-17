@@ -28,7 +28,7 @@ sections:
         align: center
         background:
           image:
-            filename: ai-generated-7938199_1280.jpg
+            filename: CPD_struct_crop.png
             filters:
               brightness: 0.7
           position: center
@@ -43,7 +43,7 @@ sections:
         align: right
         background:
           image:
-            filename: board-158973_1280.png
+            filename: Tem image.gif
             filters:
               brightness: 0.5
           position: center
