@@ -38,7 +38,7 @@ sections:
             icon_pack: fas
             text: Projects
             url: ../projects/
-      - title: World-Class Semiconductor Lab
+      - title: World-Class Simulation and Modelling Lab
         content: 'Get in touch to work with us!'
         align: right
         background:
