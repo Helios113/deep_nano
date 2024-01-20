@@ -11,7 +11,7 @@ authors:
   - Preslav Aleksandrov
 
 # Is this the primary user of the site?
-superuser: true
+superuser: flase
 
 # Role/position
 role: Research Associate 
