@@ -28,7 +28,7 @@ sections:
         align: center
         background:
           image:
-            filename: CPD_struct_crop.png
+            filename: Group pictire.jpg
             filters:
               brightness: 0.7
             fit: contain
