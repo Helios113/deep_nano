@@ -11,7 +11,7 @@ authors:
   - Ankit Dixit
 
 # Is this the primary user of the site?
-superuser: false
+superuser: primary #false
 
 # Role/position
 role: Research Associate

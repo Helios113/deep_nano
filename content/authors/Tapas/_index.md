@@ -11,7 +11,7 @@ authors:
   - Tapas
 
 # Is this the primary user of the site?
-superuser: true
+superuser: primary #false
 
 # Role/position
 role: Research Associate 
