@@ -28,7 +28,7 @@ sections:
         align: center
         background:
           image:
-            filename: Group pictire.jpg
+            filename: Tem image.gif
             filters:
               brightness: 0.7
             fit: contain
@@ -44,7 +44,7 @@ sections:
         align: right
         background:
           image:
-            filename: Tem image.gif
+            filename: Group pictire.jpg
             filters:
               brightness: 0.5
           position: center
