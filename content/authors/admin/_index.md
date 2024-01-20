@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Vihar P Georgiev
+title: Vihar Georgiev
 
 # Full Name (for SEO)
 first_name: Vihar
 last_name: Georgiev
 
 # Is this the primary user of the site?
-#superuser: primary #false
+superuser: primary #false
 
 # Role/position
 role: Professor of Nanoelectronics
