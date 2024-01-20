@@ -77,6 +77,6 @@ user_groups:
 - Group Leader
 ---
 
-I am a Professor of Nanoelectronics and the Leader of the DeepNano Group at University of Glasgow. The group is a world leader in the material modeling and device simulations of advanced CMOS devices, which include different sources of statistical variability and defects. People in the group has developed unique in-house ‘atomistic’ and analytical simulation tools, pioneering the simulation of novel numerical methods.
+I am a [Professor of Nanoelectronics](https://www.gla.ac.uk/schools/engineering/staff/vihargeorgiev/#) and the Leader of the DeepNano Group at University of Glasgow. The group is a world leader in the material modeling and device simulations of advanced CMOS devices, which include different sources of statistical variability and defects. People in the group has developed unique in-house ‘atomistic’ and analytical simulation tools, pioneering the simulation of novel numerical and analytical methods.
 
  I lead the development of novel numerical solvers and machine learning methods that are used for modelling and simulations of various semiconductor devices, such as nanowire transistors, tunnelling FETs, molecular flash memories and bio-sensors not only on IV and III-V semiconductor but also molecules, carbon nanotubes and Josephson’s junctions. 
