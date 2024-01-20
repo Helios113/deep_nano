@@ -26,11 +26,11 @@ sections:
       - title: Projects & Learn 
         content: 'Check out our projects and explore our exciting work!'
         align: center
-        background:
+        background:  
           image:
-            filename: Tem image.gif
+            filename: Papers-colaz.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.4
             fit: contain
           position: center
           color: '#555'
