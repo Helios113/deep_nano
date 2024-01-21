@@ -19,7 +19,7 @@ marketing:
     local_business_type: 'science'
     org_name: 'DeepNano, machine learning'
     description: 'DeepNano Group research activities are on the modelling and simulation of nanoscale devices for advanced optoelectronics, biosensors and quantum applications. Machine learning, TCAD,'
-    twitter: 'GetResearchDev'
+    twitter: 'https://twitter.com/DeepNano2024'
   analytics:
     google_analytics: 'G-KK5PEVFVTR'
     baidu_tongji: ''
