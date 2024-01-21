@@ -23,8 +23,8 @@ sections:
           icon_pack: fas
           text: Group
           url: ../post/
-      - title: Projects & Learn 
-        content: 'Check out our projects and explore our exciting work!'
+      - title: Projects
+        content: 'Check out our projects!'
         align: center
         background:  
           image:
@@ -39,6 +39,22 @@ sections:
             icon_pack: fas
             text: Projects
             url: ../projects/
+      - title: Research 
+        content: 'Explore our exciting work!'
+        align: center
+        background:  
+          image:
+            filename: Papers-colaz-research.png
+            filters:
+              brightness: 0.4
+            fit: contain
+          position: center
+          color: '#555'
+        link:
+            icon: newspaper
+            icon_pack: fas
+            text: Research
+            url: ../research/
       - title: World-Class Material Simulation and Device Modelling Lab
         content: 'Get in touch to work with us!'
         align: right
