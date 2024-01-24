@@ -27,8 +27,8 @@ organizations:
 bio: My research interests are. 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Federated Learning
+  - Computational Mechanics
   - Information Retrieval
 
 education:
@@ -72,6 +72,16 @@ user_groups:
   - Researchers
 ---
 
-Naveen Kumar is a research associate ........... 
+Preslav Aleksandrov is a passionate researcher and developer with a unique blend of expertise in machine learning, electronics, and software engineering. His work focuses on bridging the gap between theoretical AI concepts and practical engineering applications.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+## Current Research:
+
+- PhD Candidate, University of Cambridge: Preslav's doctoral research delves into federated learning, a cutting-edge approach to distributed machine learning that allows training models on decentralized datasets without compromising privacy. His work explores novel methods for enhancing communication efficiency and improving model accuracy in federated settings.
+- Machine Learning & Electronics Researcher: Beyond his PhD research, Preslav actively engages in broader machine learning and electronics projects. He explores the integration of AI into physical systems, leveraging machine learning techniques to optimize performance, enhance functionality, and enable innovation in various engineering domains.
+
+## Technical Expertise:
+
+- Machine Learning: Federated Learning, Generative Models, Optimization
+- Electronics: Embedded Systems, Hardware Design, Signal Processing
+- Software Engineering: Python, C++, Open-Source Development
+- Scientific Computing: Finite Element Methods, Numerical Analysis
