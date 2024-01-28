@@ -28,6 +28,9 @@ main:
   - name: Repository 
     url: "https://github.com/DeepNano-Glasgow"
     weight: 70
+  - name: YouTube
+    url: "https://www.youtube.com/@79Vihar"
+    weight: 80
   - name: Contact
     url: contact
-    weight: 80
+    weight: 90
