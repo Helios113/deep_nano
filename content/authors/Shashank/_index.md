@@ -46,19 +46,19 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+# social:
+#   - icon: envelope
+#     icon_pack: fas
+#     link: 'mailto:test@example.org'
+#   - icon: twitter
+#     icon_pack: fab
+#     link: https://twitter.com/GeorgeCushen
+#   - icon: google-scholar
+#     icon_pack: ai
+#     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#   - icon: github
+#     icon_pack: fab
+#     link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -74,4 +74,4 @@ user_groups:
   - PhD Students
   
 ---
-Enrico is an PhD student in an H2020 MSCA EU project called Intuitive. His work is mainly focus to develop the in-silico model of skin to investigate the transduction mechanism in soft-skin at molecular scale. He is developing the in-silico models of skin by considering the receptors in soft skin at various depths and role of various soft materials.
+<!-- Enrico is an PhD student in an H2020 MSCA EU project called Intuitive. His work is mainly focus to develop the in-silico model of skin to investigate the transduction mechanism in soft-skin at molecular scale. He is developing the in-silico models of skin by considering the receptors in soft skin at various depths and role of various soft materials. -->
