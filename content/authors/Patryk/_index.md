@@ -19,36 +19,36 @@ role: PhD Students
 # Organizations/Affiliations
 organizations:
   - name: University of Glasgow
-    url: ''
+    url: 'https://www.gla.ac.uk/pgrs/patrykmaciazek/'
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include modelling of optical sensors, focusing on developing new forward looking SPAD models utilising a mixture of the available methodology to achieve fast, accurate and predictive results.
 
 interests:
-#  - Artificial Intelligence
-#  - Computational Linguistics
-#  - Information Retrieval
+  - Device Modelling
+  - Semiconductor Simulations
+  - TCAD/SPICE/Monte Carlo
 
 education:
-#  courses:
-#    - course: PhD in Artificial Intelligence
-#      institution: Stanford University
-#      year: 2012
-#    - course: MEng in Artificial Intelligence
-#      institution: Massachusetts Institute of Technology
-#      year: 2009
-#    - course: BSc in Artificial Intelligence
-#      institution: Massachusetts Institute of Technology
-#      year: 2008
+  courses:
+    - course: PhD in Electronics and ELectrical Engineering
+      institution: University Of Glasgow
+      year: 2023-2026
+    - course: MSc in Electronics and ELectrical Engineering
+      institution: University Of Glasgow
+      year: 2020-2021
+    - course: BEng in Electronics and ELectrical Engineering
+      institution: University Of Glasgow
+      year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:test@example.org'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:p.maciazek.1@research.gla.ac.uk'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
@@ -65,7 +65,7 @@ education:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'mailto:p.maciazek.1@research.gla.ac.uk'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -73,3 +73,5 @@ user_groups:
   - PhD Students
   
 ---
+
+Patryk's research interests include modelling of optical sensors, focusing on developing new forward looking SPAD models utilising a mixture of the available methodology to achieve fast, accurate and predictive results.
