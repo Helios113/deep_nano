@@ -26,7 +26,7 @@ Bio: Atomistic simulations of nanoscale molecular and metal oxide junctions
 
 interests:
   - Device simulations
-  - TCAD modellng
+  - TCAD modeling
 
 education:
   courses:
@@ -73,4 +73,4 @@ user_groups:
   
 ---
 
-Dr Rakshita Dhar currently is working at STMicroelectronics. Her work focuses on BV extraction of Impact Ionization in single photon avalanche diodes (SPADs).
+Dr Rakshita Dhar is currently working in STMicroelectronics. Her work focuses on BV extraction of Impact Ionization in single photon avalanche diodes (SPADs).

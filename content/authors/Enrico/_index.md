@@ -73,4 +73,4 @@ user_groups:
   - PhD Students
   
 ---
-Enrico is an PhD student in an H2020 MSCA EU project called DESING-EID. His work is mainly focus on aspects related to III-V materials epitaxial growth on silicon, TEM analysis and development of a machine learning algorithm for defect classification. He also foresee the development of simulation framework to model the electronic and optical properties of individual defects.
+Enrico is an PhD student in the H2020 MSCA EU project called DESING-EID. His work mainly focuses on aspects related to III-V materials epitaxial growth on silicon, TEM analysis and development of a machine learning algorithm for defect classification. He also works on the development of a simulation framework to model the electronic and optical properties of individual defects.

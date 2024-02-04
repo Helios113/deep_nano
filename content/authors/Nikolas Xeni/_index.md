@@ -73,4 +73,4 @@ user_groups:
   - PhD Students
   
 ---
-Nikolas is a PhD student and his work is developing numerical models for simulations and modeling of nanoelectronics and semiconductor devices.
+Nikolas is a PhD student and his work focuses on developing numerical models for simulations and modeling of nanoelectronic and semiconductor devices.

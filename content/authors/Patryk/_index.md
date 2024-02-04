@@ -31,9 +31,9 @@ interests:
 
 education:
   courses:
-    - course: PhD in Electronics and ELectrical Engineering
-      institution: University Of Glasgow
-      year: 2023-2026
+    # - course: PhD in Electronics and ELectrical Engineering
+    #   institution: University Of Glasgow
+    #   year: 2023-2026
     - course: MSc in Electronics and ELectrical Engineering
       institution: University Of Glasgow
       year: 2020-2021

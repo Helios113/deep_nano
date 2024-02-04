@@ -33,9 +33,9 @@ interests:
 
 education:
   courses:
-    - course: PhD in Computer Science
-      institution: University of Cambridge
-      year: 2028
+    # - course: PhD in Computer Science
+    #   institution: University of Cambridge
+    #   year: 2028
     - course: MEng in Software Development
       institution: University of Glasgow
       year: 2022

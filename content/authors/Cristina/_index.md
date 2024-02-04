@@ -73,4 +73,4 @@ user_groups:
   - PhD Students
   
 ---
-Cristina is an PhD student in an H2020 MSCA EU project called DESING-EID. Her work explores the role of defects in the context of opto-electronic device performance. In her work she combines simulations & modelling with device fabrications and measurements.
+Cristina is a PhD student in the H2020 MSCA EU project called DESING-EID. Her work explores the role of defects in the context of opto-electronic device performance. In her work she combines simulations and modelling with device fabrication and measurements.

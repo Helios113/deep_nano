@@ -73,4 +73,4 @@ user_groups:
   - PhD Students
   
 ---
-Christian is an PhD student in an H2020 MSCA EU project called DESING-EID. His is developing theoretical models which can describe the complexity of the material growth process and defect formation in III-V materials. Those models are implemented in state-of-the-art QuantumATK commercial simulation framework.
+Christian is a PhD student in the H2020 MSCA EU project called DESING-EID. He is developing theoretical models that can describe the complexity of the material growth process and defect formation in III-V materials. Those models are implemented in the state-of-the-art QuantumATK commercial simulation framework.
