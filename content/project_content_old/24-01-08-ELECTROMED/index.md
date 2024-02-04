@@ -1,5 +1,5 @@
 ---
-title: Electrochemically-enabled high-throughput peptidomics for next-generation precision medicine (ELECTROMED)
+title: Electrochemically-enabled High-throughput Peptidomics for Next-generation Precision Medicine (ELECTROMED)
 date: 2023-01-10
 authors: ["Vihar Georgiev"]
 ---

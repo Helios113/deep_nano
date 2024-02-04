@@ -1,5 +1,5 @@
 ---
-title: Defect simulations and material growht of III-V nanostructures - an European Industrial Doctorate (DESIGN-EID)
+title: Defect Simulations and Material Growht of III-V Nanostructures - an European Industrial Doctorate (DESIGN-EID)
 date: 2024-01-10
 authors: ["Vihar Georgiev"]
 ---

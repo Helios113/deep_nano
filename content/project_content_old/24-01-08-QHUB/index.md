@@ -1,5 +1,5 @@
 ---
-title: Quantum mechanical simulation of aluminium oxide tunnel junctions as superconducting qubits
+title: Quantum Mechanical Simulation of Aluminium Oxide Tunnel Junctions as Superconducting Qubits
 date: 2023-01-10
 authors: ["Vihar Georgiev"]
 ---

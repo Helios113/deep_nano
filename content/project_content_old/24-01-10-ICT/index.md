@@ -1,5 +1,5 @@
 ---
-title: Realistic fault modelling to enable optimization of low power IoT and Cognitive fault-tolerant computing systems
+title: Realistic Fault Modelling to Enable Optimization of Low Power IoT and Cognitive Fault-tolerant Computing Systems
 date: 2023-01-08
 authors: ["Vihar Georgiev"]
 ---

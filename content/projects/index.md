@@ -8,7 +8,7 @@ sections:
   - block: collection
     id: reserach
     content:
-      title: "Funded Research Projects"
+      title: "Research Projects"
       subtitle: ''
       text: ""
       # Choose how many pages you would like to display (0 = all pages)
