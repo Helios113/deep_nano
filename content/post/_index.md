@@ -1,5 +1,5 @@
 ---
-title: Information about DeepNano group
+title: Welcome to the DeepNano group
 
 # Listing view
 view: compact
