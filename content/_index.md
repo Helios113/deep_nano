@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: ai-generated-8005083_1280.png
+            filename: Picture-goropu-ARC-crop.jpg
             filters:
               brightness: 0.5
           position: right
@@ -28,7 +28,7 @@ sections:
         align: center
         background:  
           image:
-            filename: Papers-colaz.jpg
+            filename: All crop room picture.jpg
             filters:
               brightness: 0.4
             fit: contain
@@ -44,7 +44,7 @@ sections:
         align: center
         background:  
           image:
-            filename: Papers-colaz-research.png
+            filename: board-158973_1280.png
             filters:
               brightness: 0.4
             fit: contain
