@@ -1,16 +1,16 @@
 ---
-title: "Material simulations: From quantum mechanical to 'classical' modeling"
+title: "Material simulations: from quantum mechanical to 'classical' modeling"
 date: 2024-01-10
 authors: ["Vihar Georgiev"]
 ---
 
-In this part of our work, we are performing numerical first principal  simulations of various materials and device architectures.
+We are performing numerical first principal simulations of various materials and device architectures.
  
 <!--more-->
 
-We use quantum mechanical first principal models based on Density Functional Theory (DFT) for material simulations and device modeling. Moreover, in partnerships with our industrial partners, we are developing theoretical models which can describe the complexity of the material growth process and defect formation in various materials, such as Si and III-Vs. In addition, we are using this materials simulation to calculate the optical and electronic properties not only for bulk materials but also molecules and opto-electronic devices. 
+We use quantum mechanical first principal models based on the Density Functional Theory (DFT) for material simulations and device modeling. Moreover, in partnerships with our industrial partners, we are developing theoretical models that can describe the complexity of the material growth process and defect formation in various materials, such as Si and III-Vs. In addition, we are using this materials simulation to calculate the optical and electronic properties not only for bulk materials but also for molecules and opto-electronic devices. 
 
-Selected Publications:
+Selected publications:
 - Dam Vedel, C., Gunst, T., Smidstrup, S. and Georgiev, V. P.  (2023) [Shockley-Read-Hall recombination and trap levels in In 0.53Ga 0.47As point defects from first principles](https://eprints.gla.ac.uk/307327/) Physical Review B, 108, 094113. [doi: 10.1103/PhysRevB.108.094113](https://eprints.gla.ac.uk/307327/)
 
 - Dam Vedel, C., Smidstrup, S. and Georgiev, V. P. (2022) [First-principles investigation of polytypic defects in InP](https://eprints.gla.ac.uk/285187/) Scientific Reports, 12, 19724. [doi: 10.1038/s41598-022-24239-w](https://eprints.gla.ac.uk/285187/) (PMID:36385159) (PMCID:PMC9669039)

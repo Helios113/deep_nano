@@ -4,16 +4,16 @@ date: 2024-01-10
 authors: ["Vihar Georgiev"]
 ---
 
-We are developing quantum mechanical simulator to model current flow in CMOS devices
+We are developing a quantum mechanical simulator to model current flow in CMOS devices.
 
 
 <!--more-->
 
-Our Quantum Transport Simulations  are based on self-consistent solution of Poisson's equation and non-equilibrium Green’s function (NEGF) approach. NEGF formalism is a generalization of the Landauer’s formalism to treat many body systems at room temperature in context of one particle. The electrostatic potential and the electron density, which serve as an initial condition for the Poisson-NEGF cycle, are obtained from a density gradient of Drift-Diffusion equations. The Hamiltonian used in the discretization of the NEGF equations is an effective-mass Hamiltonian that folds the full crystal interaction into the electron effective masses. 
+Our Quantum Transport Simulations  are based on self-consistent solution of the Poisson's equation and non-equilibrium Green’s function (NEGF) approach. NEGF formalism is a generalisation of the Landauer’s formalism to treat many body systems at room temperature in context of one particle. The electrostatic potential and the electron density, which serve as an initial condition for the Poisson-NEGF cycle, are obtained from a density gradient of the Drift-Diffusion equations. The Hamiltonian used in the discretisation of the NEGF equations is an effective-mass Hamiltonian that folds the full crystal interaction into the electron effective masses. 
 
-We can perform calculations in ballistic and scattering regime where in the latter case sources of incoherent scattering such as phonon interaction, are currently included in NEGF module. The Poisson-NEGF cycle is iterated until density and current converges. We developed two methods based on either fully-3D or coupled mode space approach self-consistent methodology to solve electron transport equations. The NEGF module is included in the 'atomistic' simulator NESS.
+We can perform calculations in ballistic and scattering regime where in the latter case sources of incoherent scattering, such as phonon interaction, are currently included in the simulations. The Poisson-NEGF cycle is iterated until density and current converges. We developed two methods based on either fully-3D or coupled mode space approach self-consistent methodology to solve electron transport equations. 
 
-Selected Publications:
+Selected publications:
 - Berrada, S., Carrillo-Nunez, H., Lee, J., Medina Bailon, C., Dutta, T. , Badami, O., Adamu-Lema, F., Thirunavukkarasu, V., Georgiev, V. and Asenov, A. (2020) [Nano-electronic Simulation Software (NESS): a flexible nano-device simulation platform](https://eprints.gla.ac.uk/215701/). Journal of Computational Electronics, 19, pp. 1031-1046. [doi: 10.1007/s10825-020-01519-0](https://eprints.gla.ac.uk/215701/)
 
 - Carrillo-Nuñez, H., Medina-Bailón, C., Georgiev, V. P.  and Asenov, A.  (2020) [Full-band quantum transport simulation in presence of hole-phonon interactions using a mode-space k·p approach](https://eprints.gla.ac.uk/226668/) Nanotechnology, 32(2), 020001. [doi: 10.1088/1361-6528/abacf3](https://eprints.gla.ac.uk/226668/) (PMID:32759487)
