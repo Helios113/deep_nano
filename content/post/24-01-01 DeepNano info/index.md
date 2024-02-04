@@ -6,7 +6,7 @@ authors: ["Vihar Georgiev"]
 #  focal_point: 'top'
 ---
 
-**DeepNano Group** is based at the [University of Glasgow](https://www.gla.ac.uk/) and it is led by [Prof. Vihar Georgiev](https://www.gla.ac.uk/schools/engineering/staff/vihargeorgiev/#).**DeepNano Group**  is part of [Glasgow Computational Engineering Centre (GCEC)](https://www.gla.ac.uk/research/az/gcec/). 
+**DeepNano Group** is based at the [University of Glasgow](https://www.gla.ac.uk/) and it is led by [Prof. Vihar Georgiev](https://www.gla.ac.uk/schools/engineering/staff/vihargeorgiev/#). **DeepNano Group**  is part of [Glasgow Computational Engineering Centre (GCEC)](https://www.gla.ac.uk/research/az/gcec/). 
  
 
 **DeepNano Group** was founded in 2024. The aim of the group is to conduct research in modelling and simulation areas of electronic devices by combining not only analytical and numerical approaches but also machine learning and artificial intelligence methods. The **DeepNano Group** research activities focus on modelling and simulating nanoscale devices for advanced optoelectronics, biosensors and quantum applications. 
