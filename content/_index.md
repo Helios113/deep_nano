@@ -28,9 +28,9 @@ sections:
         align: center
         background:  
           image:
-            filename: Vihar Seminar.JPG
+            filename: computer-3163437_1280.png
             filters:
-              brightness: 0.4
+              brightness: 0.6
             fit: contain
           position: center
           color: '#555'
