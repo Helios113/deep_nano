@@ -28,7 +28,7 @@ sections:
         align: center
         background:  
           image:
-            filename: All crop room picture.jpg
+            filename: Vihar Seminar.JPG
             filters:
               brightness: 0.4
             fit: contain
