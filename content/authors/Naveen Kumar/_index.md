@@ -29,17 +29,17 @@ bio: My research interests include modelling and simulations of transistors, mem
 #  - Computational Linguistics
 #  - Information Retrieval
 
-#education:
-#  courses:
-#    - course: PhD in Artificial Intelligence
-#      institution: Stanford University
-#      year: 2012
-#    - course: MEng in Artificial Intelligence
-#      institution: Massachusetts Institute of Technology
-#      year: 2009
-#    - course: BSc in Artificial Intelligence
-#      institution: Massachusetts Institute of Technology
-#      year: 2008
+education:
+  courses:
+    - course: PhD in Electronics & Communication Engineering
+      institution: Dr. B. R. Ambedkar National Institute of Technology, Jalandhar, Punjab, India
+      year: 2020
+    # - course: MEng in Artificial Intelligence
+    #   institution: Massachusetts Institute of Technology
+    #   year: 2009
+    # - course: BSc in Artificial Intelligence
+    #   institution: Massachusetts Institute of Technology
+    #   year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -72,3 +72,6 @@ email: 'naveen.kumar@glasgow.ac.uk'
 user_groups:
   - Researchers
 --- 
+Dr. Naveen Kumar is a Postdoctoral Research Associate at the University of Glasgow's James Watt School of Engineering, specializing in Electronics and Nanoscale Engineering within the DeepNano Group. His research revolves around different semiconductor devices including ultra-scaled FETs, solar cells, photodiodes, HEMT, Quantum Dots, etc. and their prospective applications. He is currently working on unravelling the interfacial behaviour of different FET based chemical/biological sensors using different classical and semi-quantum analytical models. He completed his Ph.D. in Electronics & Communication Engineering from Dr. B. R. Ambedkar National Institute of Technology, Jalandhar, Punjab, India. Dr. Kumar's career is highlighted by his innovative research on novel methodologies for protein sequencing using semiconductor devices, demonstrating his profound impact on the field of electronics and nanotechnology.
+ 
+Throughout his career, Dr. Kumar has actively contributed to academia and research with a strong emphasis on semiconductor devices and their applications in biosensing and electronic devices. His tenure at the University of Glasgow has seen him develop and optimize an in-house simulator for analyzing oxide-biomolecule interactions, further establishing his expertise in the intersection of nanotechnology and biological applications. Dr. Kumar's work is underpinned by numerous publications in prestigious journals and significant contributions to research projects, showcasing his dedication to advancing the field of electronics and nanoscale engineering.
