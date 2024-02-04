@@ -22,12 +22,12 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
   - Artificial intelligence
-  - Machine lerning
+  - Machine learning
   - Quantum chemistry
   - Molecular electronics
   - Material modeling 
   - Device modeling and simulations
-  - Nano-bio sensor
+  - Nano-bio-sensor
 
 
 education:
@@ -77,6 +77,6 @@ user_groups:
 - Group Leader
 ---
 
-Vihar is a [Professor of Nanoelectronics](https://www.gla.ac.uk/schools/engineering/staff/vihargeorgiev/#) and the Leader of the **DeepNano Group** at University of Glasgow. He has more than 10 years of experience of developing numerical solvers and machine learning methods that are used for modelling and simulations of various semiconductor devices, such as nanowire transistors, tunnelling FETs, molecular flash memories and bio-sensors not only on IV and III-V semiconductor but also molecules, carbon nanotubes and Josephson’s junctions. 
+Vihar is a [Professor of Nanoelectronics](https://www.gla.ac.uk/schools/engineering/staff/vihargeorgiev/#) and the Leader of the **DeepNano Group** at the University of Glasgow. He has more than 10 years of experience in developing numerical solvers and machine learning methods that are used for modelling and simulations of various semiconductor devices, such as nanowire transistors, tunnelling FETs, molecular flash memories and bio-sensors not only on IV and III-V semiconductor but also molecules, carbon nanotubes and Josephson’s junctions. 
 
 For more information please see his [University of Glasgow profile](https://www.gla.ac.uk/schools/engineering/staff/vihargeorgiev/#).
