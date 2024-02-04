@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: Picture-goropu-ARC-crop.jpg
+            filename: ai-generated-8005083_1280.png
             filters:
               brightness: 0.5
           position: right
