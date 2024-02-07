@@ -24,19 +24,21 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
+interests:
 #  - Artificial Intelligence
 #  - Computational Linguistics
-# - Information Retrieval
-
-# education:
-#   courses:
+#  - Information Retrieval
+  - Resonant Tunneling Diodes
+  - Device Modelling
+  - Quantum phenomena in Nano-electronic Devices
+education:
+   courses:
 #     - course: PhD in Artificial Intelligence
 #       institution: Stanford University
 #       year: 2012
-#     - course: MEng in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2009
+     - course: MPhys in Theoretical Physics
+       institution: Lancaster University with a year at NTU, Singapore
+       year: 2022
 #     - course: BSc in Artificial Intelligence
 #       institution: Massachusetts Institute of Technology
 #       year: 2008
@@ -73,3 +75,5 @@ user_groups:
   - PhD Students
   
 --- 
+Pranav is a PhD student at Deep Nano under Prof. Vihar Georgiev. His responsibility in the group is simulating Resonant Tunneling Diodes, double barrier heterostructure nanoelectronic devices which function based on quantum tunneling.
+He has studied for his Masters in Theoretical Physics at Lancaster University, with a Masters Project on Monte Carlo simulations of excitons in quantum dots.
