@@ -1,5 +1,5 @@
 ---
-title: Congratulations to Ankit for winning his first IAA grant from the University of Glasgow
+title: Team building and night out
 
 date: 2024-02-15
 authors: ["Vihar Georgiev"]
@@ -8,5 +8,5 @@ authors: ["Vihar Georgiev"]
 ---
 <!--more-->
 
-Team building in the **DeepNano**  team. Not everyone was present but we will have more occasions to meet all of us.
+Team building in the **DeepNano** team. Not everyone was present but we will have more occasions to meet all of us.
 
