@@ -71,7 +71,7 @@ email: 'filipovic@iue.tuwien.ac.at'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visitors
+ # - Visitors
   
 ---
 Lado Filipovic is an Associate Professor at TU Wien, working on Integrated Semiconductor Sensors and Process Simulation. He obtained his venia docendi (habilitation) in Semiconductor Based Integrated Sensors and his doctoral degree (Dr.techn.) in Microelectronics from TU Wien in 2020 and 2012, respectively. He holds a Master’s degree in Applied Sciences (MASc.) from Carleton University in Ottawa, Canada, which he obtained in 2009. He has been a Principal Investigator in various research projects funded by, e.g., the EU FP7 and Horizon 2020 programs, the Christian Doppler Forschungsgesellschaft, the Austrian Science Fund (FWF), and the Austrian Research Promotion Agency (FFG). He is a Senior Member of the IEEE and is an active member of the Technical Program Committee for outstanding IEEE sponsored conferences, such as IEEE Sensors, SISPAD, and IIRW. He has served as a reviewer for several funding agencies, has edited two books on Miniaturized Transistors, and is an active reviewer for many leading journals.
