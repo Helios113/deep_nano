@@ -1,5 +1,5 @@
 ---
-title: " Machine Learning Accelerated Device Simulations"
+title: " Machine learning accelerated device simulations"
 date: 2024-02-24
 authors: ["Vihar Georgiev"]
 ---
