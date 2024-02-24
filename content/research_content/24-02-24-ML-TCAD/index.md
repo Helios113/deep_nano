@@ -3,8 +3,7 @@ title: " Machine learning accelerated device simulations"
 date: 2024-02-24
 authors: ["Vihar Georgiev"]
 ---
-
-We are building a unique simulation framework that combines machine learning methods and device simulation techniques. 
+In this part of our work, we are investigating the possibility to replace numerical TCAD device simulations with machine learning methods.
 
 <!--more-->
 
