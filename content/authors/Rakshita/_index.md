@@ -74,3 +74,5 @@ user_groups:
 ---
 
 Dr Rakshita Dhar was working in STMicroelectronics. Her work focused on BV extraction of Impact Ionization in single photon avalanche diodes (SPADs). Now she is working as a Sr Simulation Engineer with ABL group, London. In ABL her work is TCAD simulations of power electronics and electrical devices. 
+
+Dr. Rakhshita Dhar's [PhD Thesis can be found here](https://theses.gla.ac.uk/83715/)
