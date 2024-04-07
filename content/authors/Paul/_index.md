@@ -75,3 +75,5 @@ user_groups:
 ---
 
 Dr Paul Lapham currently is an Data Analyst at Reboot. Before joining Reboot, he completed a PhD in Computational Electrical and Electronic Engineering at the University of Glasgow. 
+
+Dr. Paul Lapham's [PhD thesis can be found here](https://theses.gla.ac.uk/83647/).
