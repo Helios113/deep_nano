@@ -70,7 +70,9 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - Alumni
   
 ---
-Enrico is an PhD student in the H2020 MSCA EU project called DESING-EID. His work mainly focuses on aspects related to III-V materials epitaxial growth on silicon, TEM analysis and development of a machine learning algorithm for defect classification. He also works on the development of a simulation framework to model the electronic and optical properties of individual defects.
+Enrico was an PhD student in the H2020 MSCA EU project called DESING-EID. His work mainly focused on aspects related to III-V materials epitaxial growth on silicon, TEM analysis and development of a machine learning algorithm for defect classification. He also worked on the development of a simulation framework to model the electronic and optical properties of individual defects.
+
+Dr. Brugnoletto's [PhD Thesis can be found here](https://theses.gla.ac.uk/84374/)
