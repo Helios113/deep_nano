@@ -70,7 +70,9 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - Alumni
   
 ---
-Christian is a PhD student in the H2020 MSCA EU project called DESING-EID. He is developing theoretical models that can describe the complexity of the material growth process and defect formation in III-V materials. Those models are implemented in the state-of-the-art QuantumATK commercial simulation framework.
+Christian was a PhD student in the H2020 MSCA EU project called DESING-EID. He developed theoretical models that can describe the complexity of the material growth process and defect formation in III-V materials. Those models were implemented in the state-of-the-art QuantumATK commercial simulation framework. Now he is working as Scientific Software Developer in European Spallation Source ERIC in Copenhagen, Denmark. 
+
+Dr. Dam Vedel [PhD Thesis can be found here](https://theses.gla.ac.uk/83715/)
