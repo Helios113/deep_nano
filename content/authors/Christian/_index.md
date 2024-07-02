@@ -75,4 +75,4 @@ user_groups:
 ---
 Christian was a PhD student in the H2020 MSCA EU project called DESING-EID. He developed theoretical models that can describe the complexity of the material growth process and defect formation in III-V materials. Those models were implemented in the state-of-the-art QuantumATK commercial simulation framework. Now he is working as Scientific Software Developer in European Spallation Source ERIC in Copenhagen, Denmark. 
 
-Dr. Dam Vedel [PhD Thesis can be found here](https://theses.gla.ac.uk/83715/)
+Dr. Dam Vedel [PhD Thesis can be found here](https://theses.gla.ac.uk/84425/)
