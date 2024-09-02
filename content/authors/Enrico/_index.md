@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Enrico Brugnoletto
+title: Enrico Brugnolotto
 
 # Full name (for SEO)
 first_name: Enrico 
-last_name: Brugnoletto
+last_name: Brugnolotto
 
 # Username (this should match the folder name)
 authors:
@@ -75,4 +75,4 @@ user_groups:
 ---
 Enrico was an PhD student in the H2020 MSCA EU project called DESING-EID. His work mainly focused on aspects related to III-V materials epitaxial growth on silicon, TEM analysis and development of a machine learning algorithm for defect classification. He also worked on the development of a simulation framework to model the electronic and optical properties of individual defects.
 
-Dr. Brugnoletto's [PhD Thesis can be found here](https://theses.gla.ac.uk/84374/)
+Dr. Brugnolotto's [PhD Thesis can be found here](https://theses.gla.ac.uk/84374/)
