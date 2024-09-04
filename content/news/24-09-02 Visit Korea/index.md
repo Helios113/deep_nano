@@ -6,4 +6,4 @@ authors: ["Vihar Georgiev"]
 #  focal_point: 'top'
 ---
 <!--more-->
-Welcome to Eunjin, a visiting student from Korea. She will spend six months in our group to learn the art of simulations and modelling. 
+Welcome to Eunjin, a visiting student from Korea. She will spend six months in our group to explore various simulations and modelling approaches.  
