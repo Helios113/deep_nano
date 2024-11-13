@@ -24,10 +24,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
-#   - Artificial Intelligence
-#   - Computational Linguistics
-#   - Information Retrieval
+interests:
+  - Artificial Intelligence
+  - Numerical Modeling 
+  - Electronic Device Simulations
 
 # education:
 #   courses:
@@ -73,4 +73,4 @@ user_groups:
   - PhD Students
   
 ---
-
+Yingjia (Leo) is a PhD student at Deep Nano under Prof. Vihar Georgiev. His responsibility in the group is simulating nanowire transistors by developing electron transport solver in MOFEM. 
