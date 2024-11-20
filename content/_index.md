@@ -60,7 +60,7 @@ sections:
         align: right
         background:
           image:
-            filename: Carting day out.jpg #Group pictire copy.png
+            filename: Group pictire copy.png #Carting day out.jpg #Group pictire copy.png
             filters:
               brightness: 0.5
           position: center
