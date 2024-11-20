@@ -74,3 +74,5 @@ user_groups:
   
 ---
 Cristina is a PhD student in the H2020 MSCA EU project called DESING-EID. Her work explores the role of defects in the context of opto-electronic device performance. In her work she combines simulations and modelling with device fabrication and measurements.
+
+Dr. Martínez Oliver's [PhD Thesis can be found here](https://theses.gla.ac.uk/84710/)
