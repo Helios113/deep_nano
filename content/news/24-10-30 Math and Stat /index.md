@@ -6,5 +6,5 @@ authors: ["Vihar Georgiev"]
 #  focal_point: 'top'
 ---
 <!--more-->
-Our group leader Vihar Georgiev gave a talk to Math & Stats colleagues on how we model transistors in [MOFEM](www.mofem.eng.gla.ac.uk/mofem/html/index.html) and how mix formulation FEM works.  
+Our group leader Vihar Georgiev gave a talk to Math & Stats colleagues on how we model transistors in MOFEM and how mix formulation FEM works.  
 
