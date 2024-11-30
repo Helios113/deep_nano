@@ -1,5 +1,5 @@
 ---
-title: DeepNano Teambuilding day! 
+title: DeepNano Teambuilding day 
 date: 2024-11-10 
 authors: ["Vihar Georgiev"]
 #image:
