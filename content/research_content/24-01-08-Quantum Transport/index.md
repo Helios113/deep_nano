@@ -16,8 +16,10 @@ We can perform calculations in ballistic and scattering regime where in the latt
 Selected publications:
 - Acharya, P. , Rezaei, A. , Sengupta, A. , Dutta, T. , Kumar, N. , Maciazek, P., Asenov, A.  and Georgiev, V.  (2024) [Analysis of random discrete dopants embedded nanowire resonant tunnelling diodes for generation of physically unclonable functions](https://eprints.gla.ac.uk/342047/). IEEE Transactions on Nanotechnology, vol. 23, pp. 815-821.[doi:10.1109/TNANO.2024.3504963](doi:10.1109/TNANO.2024.3504963)
 
+- Medina Bailon, C., Nedjalkov, M., Georgiev, V. , Selberherr, S. and Asenov, A.  (2023) [Comprehensive mobility study of silicon nanowire transistors using multi-subband models](https://eprints.gla.ac.uk/300245/). Nano Express, 4, 025005. [doi: 10.1088/2632-959X/acdb8a](https://eprints.gla.ac.uk/300245/)
+
 - Berrada, S., Carrillo-Nunez, H., Lee, J., Medina Bailon, C., Dutta, T. , Badami, O., Adamu-Lema, F., Thirunavukkarasu, V., Georgiev, V. and Asenov, A. (2020) [Nano-electronic Simulation Software (NESS): a flexible nano-device simulation platform](https://eprints.gla.ac.uk/215701/). Journal of Computational Electronics, 19, pp. 1031-1046. [doi: 10.1007/s10825-020-01519-0](https://eprints.gla.ac.uk/215701/)
 
 - Carrillo-Nuñez, H., Medina-Bailón, C., Georgiev, V. P.  and Asenov, A.  (2020) [Full-band quantum transport simulation in presence of hole-phonon interactions using a mode-space k·p approach](https://eprints.gla.ac.uk/226668/) Nanotechnology, 32(2), 020001. [doi: 10.1088/1361-6528/abacf3](https://eprints.gla.ac.uk/226668/) (PMID:32759487)
 
-- Medina Bailon, C., Nedjalkov, M., Georgiev, V. , Selberherr, S. and Asenov, A.  (2023) [Comprehensive mobility study of silicon nanowire transistors using multi-subband models](https://eprints.gla.ac.uk/300245/). Nano Express, 4, 025005. [doi: 10.1088/2632-959X/acdb8a](https://eprints.gla.ac.uk/300245/)
+
