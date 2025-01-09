@@ -14,6 +14,8 @@ Our Quantum Transport Simulations  are based on self-consistent solution of the 
 We can perform calculations in ballistic and scattering regime where in the latter case sources of incoherent scattering, such as phonon interaction, are currently included in the simulations. The Poisson-NEGF cycle is iterated until density and current converges. We developed two methods based on either fully-3D or coupled mode space approach self-consistent methodology to solve electron transport equations. 
 
 Selected publications:
+- Acharya, P. , Rezaei, A. , Sengupta, A. , Dutta, T. , Kumar, N. , Maciazek, P., Asenov, A.  and Georgiev, V.  (2024) [Analysis of random discrete dopants embedded nanowire resonant tunnelling diodes for generation of physically unclonable functions](https://eprints.gla.ac.uk/342047/). IEEE Transactions on Nanotechnology, vol. 23, pp. 815-821.[doi:10.1109/TNANO.2024.3504963](doi:10.1109/TNANO.2024.3504963)
+
 - Berrada, S., Carrillo-Nunez, H., Lee, J., Medina Bailon, C., Dutta, T. , Badami, O., Adamu-Lema, F., Thirunavukkarasu, V., Georgiev, V. and Asenov, A. (2020) [Nano-electronic Simulation Software (NESS): a flexible nano-device simulation platform](https://eprints.gla.ac.uk/215701/). Journal of Computational Electronics, 19, pp. 1031-1046. [doi: 10.1007/s10825-020-01519-0](https://eprints.gla.ac.uk/215701/)
 
 - Carrillo-Nuñez, H., Medina-Bailón, C., Georgiev, V. P.  and Asenov, A.  (2020) [Full-band quantum transport simulation in presence of hole-phonon interactions using a mode-space k·p approach](https://eprints.gla.ac.uk/226668/) Nanotechnology, 32(2), 020001. [doi: 10.1088/1361-6528/abacf3](https://eprints.gla.ac.uk/226668/) (PMID:32759487)
