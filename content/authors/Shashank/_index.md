@@ -71,7 +71,11 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - Alumni
   
 ---
 <!-- Enrico is an PhD student in an H2020 MSCA EU project called Intuitive. His work is mainly focus to develop the in-silico model of skin to investigate the transduction mechanism in soft-skin at molecular scale. He is developing the in-silico models of skin by considering the receptors in soft skin at various depths and role of various soft materials. -->
+
+Dr Shashank Mishra currently is an PDRA at [APRIL HUB](https://www.april.ac.uk/). Before joining APRIL HUB, he completed a PhD in Computational Electrical and Electronic Engineering at the University of Glasgow. 
+
+Dr. Mishra's [PhD thesis can be found here](https://theses.gla.ac.uk/84859/).
