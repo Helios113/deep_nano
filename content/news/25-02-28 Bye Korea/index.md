@@ -1,5 +1,5 @@
 ---
-title: Welcome to our visiting student from Korea
+title: Goodbye to our visiting student from Korea
 date: 2025-02-28
 authors: ["Vihar Georgiev"]
 #image:
