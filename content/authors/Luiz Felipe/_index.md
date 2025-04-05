@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Deputy Group Leader
+role: Lecturer (Engineering UEST China)
 
 # Organizations/Affiliations
 organizations:
@@ -71,7 +71,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Group Leader
+  - Deputy Group Leader
   
 ---
 
