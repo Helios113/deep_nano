@@ -25,8 +25,8 @@ organizations:
 bio: Text 
 
 interests:
-  - Machine-Learning-Enhanced 
-  - ModellingEmerging Memory Devices
+  - Machine Learning Modelling
+  - Emerging Memory Devices
   - Semiconductor Process Simulation
   - Density Functional Theory
   - Atomic Layer Processing
@@ -54,10 +54,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'Luiz.Aguinsky@glasgow.ac.uk'
+    link: 'mailto:luiz.aguinsky@glasgow.ac.uk'
   - icon: twitter
     icon_pack: fab
-    link: 
+    link: https://x.com/
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com.hk/citations?user=8sYNv6UAAAAJ
@@ -69,7 +69,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'Luiz.Aguinsky@glasgow.ac.uk'
+email: 'luiz.aguinsky@glasgow.ac.uk'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
