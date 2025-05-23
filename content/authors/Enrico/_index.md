@@ -73,6 +73,6 @@ user_groups:
   - Alumni
   
 ---
-Enrico was an PhD student in the H2020 MSCA EU project called DESING-EID. His work mainly focused on aspects related to III-V materials epitaxial growth on silicon, TEM analysis and development of a machine learning algorithm for defect classification. He also worked on the development of a simulation framework to model the electronic and optical properties of individual defects.
+Enrico was an PhD student in the H2020 MSCA EU project called DESING-EID. His work mainly focused on aspects related to III-V materials epitaxial growth on silicon, TEM analysis and development of a machine learning algorithm for defect classification. He also worked on the development of a simulation framework to model the electronic and optical properties of individual defects. Now he is working as a postdoctoral researcher in ICN2 in Barcelona, Spain.
 
 Dr. Brugnolotto's [PhD Thesis can be found here](https://theses.gla.ac.uk/84374/)
