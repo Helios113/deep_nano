@@ -73,6 +73,6 @@ user_groups:
   - Alumni
   
 ---
-Cristina is a PhD student in the H2020 MSCA EU project called DESING-EID. Her work explores the role of defects in the context of opto-electronic device performance. In her work she combines simulations and modelling with device fabrication and measurements.
+Cristina is a PhD student in the H2020 MSCA EU project called DESING-EID. Her work explores the role of defects in the context of opto-electronic device performance. In her work she combines simulations and modelling with device fabrication and measurements. Now she is working as a researcher for the printed fuel cells & electrolysers line in Eurecat. Eurecat is the second Research & Technology Organisation in Spain and one of the largest applied research and technology transfer organisation in Southern Europe.
 
 Dr. Martínez Oliver's [PhD Thesis can be found here](https://theses.gla.ac.uk/84710/)!!
