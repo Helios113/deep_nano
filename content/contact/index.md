@@ -13,7 +13,7 @@ sections:
       email: vihar.georgiev@glasgow.ac.uk
       phone: +44(0)7942757239
       address:
-        street: 80 Oakfield Avenue 
+        street: 79-85 Oakfield Avenue (Rankine Building)
         city: Glasgow
         region: Scotland
         postcode: G12 8LT
