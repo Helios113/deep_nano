@@ -14,7 +14,7 @@ The idea is to utilise the highly attractive redox properties of the POMs -- the
 Fundamentally, we aim to establish a link between the two traditionally distinct fields of molecular design and modelling and device design and modelling and to exemplify the synergy derived from the diverse expertise held at each area.
 
 Selected publications:
--Dixit, A., Ghosh, R., Jacobs, J., Kumar, N., Vila-Nadal, L., Asenov, A, Paul, D. J. and Georgiev, V. (2025) [Nanowire behavior under the influence of polyoxometalates: a comparative study of depletion and enhancement modes.](https://eprints.gla.ac.uk/354949/) Solid-State Electronics, 228, 109145. [doi: 10.1016/j.sse.2025.109145](https://www.sciencedirect.com/science/article/pii/S0038110125000905?via%3Dihub)
+- Dixit, A., Ghosh, R., Jacobs, J., Kumar, N., Vila-Nadal, L., Asenov, A, Paul, D. J. and Georgiev, V. (2025) [Nanowire behavior under the influence of polyoxometalates: a comparative study of depletion and enhancement modes.](https://eprints.gla.ac.uk/354949/) Solid-State Electronics, 228, 109145. [doi: 10.1016/j.sse.2025.109145](https://www.sciencedirect.com/science/article/pii/S0038110125000905?via%3Dihub)
 
 - Lapham, P., Vilà-Nadal, L. , Cronin, L. and Georgiev, V. P. (2021) [Influence of the contact geometry and counterions on the current flow and charge transfer in polyoxometalate molecular junctions: a density functional theory study](https://pubs.acs.org/doi/10.1021/acs.jpcc.0c11038) Journal of Physical Chemistry C, 125(6), pp. 3599-3610. [doi: 10.1021/acs.jpcc.0c11038](https://pubs.acs.org/doi/10.1021/acs.jpcc.0c11038) (PMID:33633816) (PMCID:PMC7899180)
 
