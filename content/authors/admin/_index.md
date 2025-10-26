@@ -7,7 +7,7 @@ first_name: Vihar
 last_name: Georgiev
 
 # Is this the primary user of the site?
-superuser:  yes #false yes true
+superuser: true #yes true
 
 # Role/position
 role: Professor of Nanoelectronics
