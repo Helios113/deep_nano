@@ -33,9 +33,9 @@ interests:
   - Quantum phenomena in Nano-electronic Devices
 education:
    courses:
-#     - course: PhD in Artificial Intelligence
-#       institution: Stanford University
-#       year: 2012
+     - course: PhD in Electical Engineering
+       institution: University of Glasgow
+       year: 2025
      - course: MPhys in Theoretical Physics
        institution: Lancaster University with a year at NTU, Singapore
        year: 2022
@@ -72,8 +72,9 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - Alumni
   
 --- 
-Pranav is a PhD student at Deep Nano under Prof. Vihar Georgiev. His responsibility in the group is simulating Resonant Tunneling Diodes, double barrier heterostructure nanoelectronic devices which function based on quantum tunneling.
-He has studied for his Masters in Theoretical Physics at Lancaster University, with a Masters Project on Monte Carlo simulations of excitons in quantum dots.
+[Pranav was a PhD student](https://pranav-acharya.com/). His responsibility in the group was simulating Resonant Tunneling Diodes, double barrier heterostructure nanoelectronic devices which function based on quantum tunneling.
+
+Dr. Acharya's [PhD Thesis can be found here](https://theses.gla.ac.uk/85532/). 
