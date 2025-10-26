@@ -69,7 +69,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Alumni
 ---
 
 Preslav Aleksandrov is a passionate researcher and developer with a unique blend of expertise in machine learning, electronics, and software engineering. His work focuses on bridging the gap between theoretical AI concepts and practical engineering applications.
