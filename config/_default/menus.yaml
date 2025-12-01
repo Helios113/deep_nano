@@ -13,9 +13,9 @@ main:
   - name: Research
     url: research
     weight: 30 
-  # - name: Events
-  #   url: event
-  #   weight: 30
+#  - name: Events
+#    url: event
+#    weight: 100
   - name: Publications
     url: "https://www.gla.ac.uk/schools/engineering/staff/vihargeorgiev/#publications"
     weight: 50
