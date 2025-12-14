@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: Picture-goropu-ARC-crop.jpg
+            filename: Group picture 2025.jpeg #Picture-goropu-ARC-crop.jpg
             filters:
               brightness: 0.5
           position: right
