@@ -13,6 +13,9 @@ Our biosensor methodology is based on the combination of machine learning method
 The output of the simulation tool is a sequence of amino acids or small oligopeptides, which can be compared with the surface potential and capacitance obtained from experiments or analytical simulations. The main strength of our approach is that we can predict the surface potential and capacitance of proteins and amino acids.
 
 Selected publications:
+
+- Smoliak, N., Kumar, N. , Parreira, P. M. , Macdonald, C. and Georgiev, V. (2025) [A hybrid analytical and machine learning model of BioFETs for the detection of peptides](https://ieeexplore.ieee.org/document/11152363). IEEE Sensors Letters, 9(10), 4502604. [doi: 10.1109/LSENS.2025.3606612](https://eprints.gla.ac.uk/365012/)
+
 - Kumar, N., Dixit, A., Kumar, P., Ansari, Md. H., Bagga, N., Gandhi, N., Kondekar, P.N., García, C. P. and Georgiev, V. (2025) [Optimizing peptide detection using FET-based sensors: integrating non-linearities of surface functionalization](https://eprints.gla.ac.uk/356367/). Solid-State Electronics, 229, 109161. [doi: 10.1016/j.sse.2025.109161](https://www.sciencedirect.com/science/article/pii/S0038110125001066?via%3Dihub)
 
 - Kumar, N. , Aleksandrov, P. , Gao, Y., Macdonald, C. , García, C. P. and Georgiev, V. (2024) [Combinations of analytical and machine learning methods in a single simulation framework for amphoteric molecules detection](https://ieeexplore.ieee.org/document/10543152). IEEE Sensors Letters, 8(7), 1501004. [doi: 10.1109/LSENS.2024.3408101](https://eprints.gla.ac.uk/327533/) 
