@@ -13,5 +13,7 @@ The focus of the **DeepNano Group** is on developing new simulation methods and 
 
 Our projects are in collaboration with leading experimental and simulation groups from all over the world, such as IBM, STMicroelectronics, IMEC, Synopsys and Synopsys QuantumATK. **DeepNano Group** collaborates with academic groups not only in the UK but also from USA, China, South Korea, India, Japan, Austria, Switzerland, Spain, France, Italy, Poland, Germany and Bulgaria. We are supporting open science practices and we are happy to collaborate with everyone interested in our work.
 
+
+{{< youtube So4zTMXse5U >}} 
 <!--more-->
 
