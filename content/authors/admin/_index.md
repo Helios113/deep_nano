@@ -8,6 +8,7 @@ last_name: Georgiev
 
 # Is this the primary user of the site?
 superuser: yes #true
+superuser: yes
 
 # Role/position
 role: Professor of Nanoelectronics
