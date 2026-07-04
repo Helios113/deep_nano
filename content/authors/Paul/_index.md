@@ -74,6 +74,6 @@ user_groups:
   
 ---
 
-Dr Paul Lapham currently is an Data Science & Analytics Consultant at PA Consulting. Before this he was a Senior Data Insights Manager at [Reboot](https://www.rebootonline.com/). Before joining Reboot, he completed a PhD in Computational Electrical and Electronic Engineering at the University of Glasgow
+Dr Paul Lapham currently is an Data Science & Analytics Consultant at [PA Consulting](https://www.paconsulting.com/). Before this he was a Senior Data Insights Manager at [Reboot](https://www.rebootonline.com/). Before joining Reboot, he completed a PhD in Computational Electrical and Electronic Engineering at the University of Glasgow
 
 Dr. Paul Lapham's [PhD thesis can be found here](https://theses.gla.ac.uk/83647/).
