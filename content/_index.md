@@ -14,7 +14,7 @@ sections:
         align: center
         background:
           image:
-            filename: ai-generated-8005083_1280.png  #Picture-goropu-ARC-crop.jpg
+            filename: Brain DeepNano image.png #ai-generated-8005083_1280.png  #Picture-goropu-ARC-crop.jpg
             filters:
               brightness: 0.5
           position: right
@@ -61,7 +61,7 @@ sections:
         align: right
         background:
           image:
-            filename: Group picture 2025.jpeg
+            filename:  wallpapertip_board-wallpaper_1947273.jpg #Group picture 2025.jpeg
             filters:
               brightness: 0.5
           position: center
