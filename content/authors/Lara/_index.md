@@ -17,46 +17,46 @@ superuser: false
 role: PhD Students
 
 # Organizations/Affiliations
-organizations:
-  - name: University of Cambridge
-    url: 'https://www.preslav.xyz'
-  - name: University of Glasgow 
-    url: 'https://www.gla.ac.uk/schools/engineering/staff/preslavaleksandrov/'
+#organizations:
+#  - name: University of Cambridge
+#    url: 'https://www.preslav.xyz'
+#  - name: University of Glasgow 
+#    url: 'https://www.gla.ac.uk/schools/engineering/staff/preslavaleksandrov/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are. 
+bio: I am a current PhD student at the Applied Quantum Technologies CDT with the University of Glasgow where I focus on qubit and quantum device simulations. I completed my masters in Theoretical Physics at the University of Edinburgh researching quantum error correction with GKP codes. In my  Bachelor’s at the University of Bristol, I focused on computational and quantum courses with my project working on many body simulations in virtual reality.
 
 interests:
-  - Federated Learning
-  - Computational Mechanics
-  - Information Retrieval
+  - Quantum Physics
+  - Computational Physics
+  - Numerical Modeling and Simulations
 
 education:
   courses:
     # - course: PhD in Computer Science
     #   institution: University of Cambridge
     #   year: 2028
-    - course: MEng in Software Development
-      institution: University of Glasgow
-      year: 2022
-    - course: MEng in Civil Engineering
-      institution: University of Glasgow
-      year: 2021
+    - course: MSc in Theoretical Physics
+      institution: University of Edinburgh
+      year: 2026
+    - course: BSc in Physics
+      institution: University of Bristol
+      year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:pa511@cam.ac.uk'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=d3mnwTkAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/Helios113
+#social:
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'mailto:pa511@cam.ac.uk'
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.com/citations?user=d3mnwTkAAAAJ
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/Helios113
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,17 +71,9 @@ email: ''
 user_groups:
   - PhD Students
 ---
+I am a current PhD student at the Applied Quantum Technologies CDT with the University of Glasgow where I focus on qubit and quantum device simulations. I completed my masters in Theoretical Physics at the University of Edinburgh researching quantum error correction with GKP codes. In my  Bachelor’s at the University of Bristol, I focused on computational and quantum courses with my project working on many body simulations in virtual reality.
 
-Preslav Aleksandrov is a passionate researcher and developer with a unique blend of expertise in machine learning, electronics, and software engineering. His work focuses on bridging the gap between theoretical AI concepts and practical engineering applications.
 
-## Current Research:
 
-- PhD Candidate, University of Cambridge: Preslav's doctoral research delves into federated learning, a cutting-edge approach to distributed machine learning that allows training models on decentralized datasets without compromising privacy. His work explores novel methods for enhancing communication efficiency and improving model accuracy in federated settings.
-- Machine Learning & Electronics Researcher: Beyond his PhD research, Preslav actively engages in broader machine learning and electronics projects. He explores the integration of AI into physical systems, leveraging machine learning techniques to optimize performance, enhance functionality, and enable innovation in various engineering domains.
 
-## Technical Expertise:
 
-- Machine Learning: Federated Learning, Generative Models, Optimization
-- Electronics: Embedded Systems, Hardware Design, Signal Processing
-- Software Engineering: Python, C++, Open-Source Development
-- Scientific Computing: Finite Element Methods, Numerical Analysis
